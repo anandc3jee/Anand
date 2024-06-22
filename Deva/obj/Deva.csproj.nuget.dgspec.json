@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anandmishra/Projects/Deva/Deva/Deva.csproj": {}
+    "/Users/anandmishra/Desktop/Github/Anand/Deva/Deva.csproj": {}
   },
   "projects": {
-    "/Users/anandmishra/Projects/Deva/Deva/Deva.csproj": {
+    "/Users/anandmishra/Desktop/Github/Anand/Deva/Deva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anandmishra/Projects/Deva/Deva/Deva.csproj",
+        "projectUniqueName": "/Users/anandmishra/Desktop/Github/Anand/Deva/Deva.csproj",
         "projectName": "Deva",
-        "projectPath": "/Users/anandmishra/Projects/Deva/Deva/Deva.csproj",
+        "projectPath": "/Users/anandmishra/Desktop/Github/Anand/Deva/Deva.csproj",
         "packagesPath": "/Users/anandmishra/.nuget/packages/",
-        "outputPath": "/Users/anandmishra/Projects/Deva/Deva/obj/",
+        "outputPath": "/Users/anandmishra/Desktop/Github/Anand/Deva/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anandmishra/.nuget/NuGet/NuGet.Config"
